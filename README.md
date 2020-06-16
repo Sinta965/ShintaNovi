@@ -1,0 +1,2 @@
+# ShintaNovi
+Tugas Praktek
